@@ -1,6 +1,6 @@
 # Robot car 
 
-this is a ide script of robot car project using arduino with some components like.
+this is an IDE script of robot car project using arduino with some components like.
 
 - Dc motors
 - Motor drivers
